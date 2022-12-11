@@ -1,1 +1,1 @@
-For checking Ubuntu VM
+For checking Ubuntu VM, Using the command uname check the machine
